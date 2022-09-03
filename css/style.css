@@ -50,3 +50,19 @@ li a:hover {
     color: #B63D32;
     margin-bottom: 10px;
 }
+
+#content_in p{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+#content_in a{
+    display: block;
+    width: 130px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    text-decoration: none;
+    background-color: #B63D32;
+    color: #FFFFFF;
+}
