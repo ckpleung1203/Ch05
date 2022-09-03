@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:biege;
+    font-family: Microsoft JhengHei;
+}
+#wrapper{
+    margin: 0px auto;
+    width: 1024px;
+}
+#logo{
+    height: 250px;
+}
+nav{
+    background-color: #B63D32;
+    text-align: center;
+}
+
+ul{
+    display:inline-block;
+    margin:0px;
+}
+
+li{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+}
+
+li a{
+    display: block;
+    padding: 15px 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #FFC90E;
+}
