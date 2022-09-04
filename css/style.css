@@ -11,8 +11,8 @@ body{
     width: 1024px;
 }
 #logo{
-    height: 250px;
 }
+
 nav{
     background-color: #B63D32;
     text-align: center;
@@ -77,4 +77,18 @@ footer p{
     padding: 10px 0px;
 }
 
+@media screen and (max-width: 1024px){
+    #wrapper{
+        width:80%;
+    }
+}
 
+@media screen and (max-width: 640px){
+    li a{
+        padding: 10px;
+    }
+}
+
+#logo img{
+    width: 100%;
+}
