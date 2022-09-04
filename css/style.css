@@ -66,3 +66,15 @@ li a:hover {
     background-color: #B63D32;
     color: #FFFFFF;
 }
+footer{
+    background-color:#71552A;
+    text-align: center;
+}
+
+footer p{
+    font-size: 10px;
+    color: #FFFFFF;
+    padding: 10px 0px;
+}
+
+
